@@ -1,2 +1,2 @@
 # alarm
-an alarm appliacation made by me in Python
+an alarm application made by me in Python
